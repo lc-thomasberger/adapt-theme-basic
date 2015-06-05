@@ -1,0 +1,24 @@
+{
+  "name": "adapt-contrib-theme-basic",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lc-thomasberger/test",
+  "authors": [
+    ""
+  ],
+  "displayName": "Basic Theme",
+  "theme": "basic",
+  "description": "A core bundled theme",
+  "main": "js/basic.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
